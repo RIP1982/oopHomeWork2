@@ -1,0 +1,3 @@
+Ivanov Ivan, Male, 20, medical, A205
+Sidorova Elena, Female, 19, medical, A205
+Petrov Egor, Male, 21, medical, A205
